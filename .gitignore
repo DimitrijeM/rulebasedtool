@@ -1,0 +1,34 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+
+# Virtualenv
+.venv
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+.DS_Store
+
+clipspy-0.3.2/
+
+# idea folder, uncomment if you don't need it
+.idea
